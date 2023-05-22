@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/markdown-it": "^12.2.3",
     "@types/node": "20.2.3",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
     "autoprefixer": "10.4.14",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^13.0.1",
     "next": "13.4.3",
     "postcss": "8.4.23",
     "react": "18.2.0",

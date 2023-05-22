@@ -25,3 +25,46 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.innerHTML {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  line-height: 1.5;
+  font-family: "Inter", sans-serif;
+  font-size: clamp(1rem, 3vw, 1.25rem);
+}
+.innerHTML h1 {
+  font-size: clamp(2.25rem, 5vw, 2.75rem);
+}
+.innerHTML h2 {
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+}
+.innerHTML h3 {
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+}
+.innerHTML ul {
+  list-style: disc;
+  padding-left: clamp(2rem, 3vw, 3rem);
+}
+.innerHTML ol {
+  list-style: decimal;
+  padding-left: clamp(2rem, 3vw, 3rem);
+}
+h1 {
+  font-size: clamp(2.25rem, 5vw, 2.75rem);
+}
+h2 {
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+}
+h3 {
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+}
+ul {
+  list-style: disc;
+  padding-left: clamp(2rem, 3vw, 3rem);
+}
+ol {
+  list-style: decimal;
+  padding-left: clamp(2rem, 3vw, 3rem);
+}
+
