@@ -3,10 +3,13 @@ title: 'Istanbul, Turkey'
 slug: 'istanbul-turkey'
 metaTitle: 'Istanbul, Turkey'
 metaDesc: 'Our trip to Istanbul'
-socialImage: hagia-sofia.png
-socialImageHeight: 400
-socialImageWidth: 320
-date: '2022-04-22'
+mainImage: hagia-sofia.png
+mainImageHeight: 400
+mainImageWidth: 320
+date: 'May 22, 2023'
+authors: 
+  - Dr. Yarar-Fisher
+  - Dr. Jia Li
 tags:
   - travel
   - istanbul

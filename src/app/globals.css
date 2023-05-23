@@ -67,4 +67,12 @@ ol {
   list-style: decimal;
   padding-left: clamp(2rem, 3vw, 3rem);
 }
-
+input {
+  font-family: "Inter", sans-serif;
+  font-size: clamp(1rem, 3vw, 1.25rem);
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  border: 1px solid rgb(var(--foreground-rgb));
+  background: transparent;
+  color: rgb(var(--foreground-rgb));
+}

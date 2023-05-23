@@ -31,7 +31,7 @@ export default async function Page({ params }: any) {
   return (
     <div className="innerHTML">
       <h1>{post?.blogPost.title}</h1>
-      <Image src={`/${post.blogPost.socialImage}`} alt="text" width={post.blogPost.socialImageWidth} height={post.blogPost.socialImageHeight} />
+      <Image src={`/${post.blogPost.mainImage}`} alt="text" width={post.blogPost.mainImageWidth} height={post.blogPost.mainImageHeight} />
       {<div dangerouslySetInnerHTML={{ __html: result }} />}
     </div>
   );

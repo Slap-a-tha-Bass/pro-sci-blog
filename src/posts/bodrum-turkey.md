@@ -3,9 +3,9 @@ title: 'Bodrum, Turkey'
 slug: 'bodrum-turkey'
 metaTitle: 'Bodrum, Turkey'
 metaDesc: 'Our trip to bodrum'
-socialImage: bodrum-house.jpg
-socialImageHeight: 400
-socialImageWidth: 320
+mainImage: bodrum-house.jpg
+mainImageHeight: 400
+mainImageWidth: 320
 date: 'May 21, 2023'
 authors: 
   - Dr. Yarar-Fisher
